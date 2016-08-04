@@ -1,0 +1,32 @@
+_repo: Birds-and-Poets---with-Other-Papers_5177
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burroughs, John
+    birthdate: 1837
+    deathdate: 1921
+    gutenberg_agent_id: '1127'
+    url: http://www.gutenberg.org/2009/agents/1127
+    wikipedia: http://en.wikipedia.org/wiki/John_Burroughs
+description: ''
+gutenberg_bookshelf: Contemporary Reviews
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Outdoor books'
+- !lcc 'PS'
+- !lcsh 'American essays -- 19th century'
+- !lcsh 'Birds'
+- !lcsh 'Nature'
+- GITenberg
+tableOfContents: Birds and poets -- Touches of nature -- A bird medley -- April --
+  Spring poems -- Our rural divinity -- Before genius -- Before beauty -- Emerson
+  -- The flight of the eagle.
+title: 'Birds and Poets : with Other Papers'
+url: http://www.gutenberg.org/ebooks/5177
